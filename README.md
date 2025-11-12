@@ -26,8 +26,7 @@ This repository contains a **Google Colab / Jupyter Notebook** implementation of
 1. Open the notebook directly in Colab:
 ```
 
-[https://colab.research.google.com/github/](https://colab.research.google.com/github/)<your-username>/<repo-name>/blob/main/image_sr_gan_final.ipynb
-
+https://colab.research.google.com/drive/1GpTzqtAhCMQVS7QBHFGw_2YMPdn1rcTo?usp=sharing
 ````
 2. Click **“Runtime” → “Change runtime type” → Select GPU**.
 3. Run all cells sequentially (from top to bottom).
