@@ -1,10 +1,3 @@
-Perfect clarification ✅ — you want a **`README.md`** that directly matches your uploaded notebook (`image_sr_gan_final.ipynb`) — so that visitors on **GitHub** or **Google Colab** know exactly **how to open, run, and use the notebook** without any extra files or scripts.
-
-Here’s a **concise, professional, notebook-based README.md** tailored **only** for your `.ipynb` file 👇
-
----
-
-```markdown
 # 🧠 Image Super-Resolution Using GANs (SRGAN)
 
 This repository contains a **Google Colab / Jupyter Notebook** implementation of **Super-Resolution GAN (SRGAN)** — a deep learning model that enhances low-resolution images into high-resolution outputs.
@@ -36,7 +29,7 @@ https://colab.research.google.com/drive/1GpTzqtAhCMQVS7QBHFGw_2YMPdn1rcTo?usp=sh
 ### Option 2 — 🧠 Run Locally (Jupyter)
 1. Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Poornatejareddy/Image-Super-Resolution-Using-GANs.git
 cd <repo-name>
 pip install torch torchvision pillow tqdm matplotlib
 jupyter notebook
